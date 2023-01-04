@@ -16,4 +16,20 @@
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
 
+    --container-width-lg: 75%;
+    --container-width-md: 86%;
+    --container-width-sm: 90%;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    
 }
