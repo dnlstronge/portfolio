@@ -5,6 +5,10 @@ import { AiOutlineBook } from 'react-icons/ai'
 import { TbHammer } from 'react-icons/tb'
 import { BiMessageDetail } from 'react-icons/bi'
 import { useState } from 'react'
+
+//icons
+
+import { AiOutlineBook } from 'react-icons/ai'
 import React from 'react'
 
 const Nav = () => {
